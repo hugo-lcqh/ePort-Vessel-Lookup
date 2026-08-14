@@ -1,0 +1,5 @@
+selenium==4.45.0
+webdriver-manager==4.1.2
+colorama==0.4.6
+tabulate==0.10.0
+openpyxl==3.1.5

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# PyInstaller and packaged binaries
+build/
+dist/
+*.exe
+*.7z
+
+# Application output
+eport_ket_qua_*.xlsx
+debug_*.html
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
